@@ -35,12 +35,11 @@ https://github.com/Lopeez29/AlvaroLopezDiazExamenRedes
 ### - Contexto
 
 
-## Diagramas 
-
-[Diagramas](./Soluciones/Diagramas)
-
-
-
 **Descubre el contexto del examen**:  
 
 [Lore.](./Soluciones/Lore/Contexto)
+
+
+## Diagramas 
+
+[Diagramas](./Soluciones/Diagramas)
