@@ -18,8 +18,8 @@ Esta red representa una **infraestructura aislada con VLANs**, donde un **router
 
 | VLAN | Nombre       | Dispositivos asignados |
 |------|--------------|------------------------|
-| 10   | vlan10     | PC0, PC1               |
-| 20   | vlan20     | PC2, PC3               |
+| 10   | vlan10     | PC0, PC1, PC3.             |
+| 20   | vlan20     | PC6, PC4, PC5              |
 
 ---
 
