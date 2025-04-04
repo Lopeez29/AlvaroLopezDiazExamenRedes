@@ -1,7 +1,7 @@
 # AlvaroLopezExamenRedes
 
 
-https://github.com/Lopeez29/AlvaroLopezExamenRedes.git
+https://github.com/Lopeez29/AlvaroLopezDiazExamenRedes
 
 
 ## Teoría
